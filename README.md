@@ -2,4 +2,4 @@
 Atividades da disciplina de Desenvovimento Web I (Parte de HTML)
 - [Atividade 1](atividade1.html)
 - [Atividade 2](atividade2.html)
-  [Atividade 2](atividade3.html)
+- [Atividade 2](atividade3.html)
